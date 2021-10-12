@@ -7,13 +7,13 @@ These are the files that the project contains, to show an overview of what was u
 
 ![image](https://drive.google.com/uc?export=view&id=1bRPj7512faBWSxbPiM-jFn55K2fF60it)
 
-## Application
+# Application
 
 The application has a RecyclerView on the main screen. This can be collapsed or expanded in order to show less/more details about the item.
 
 ![image](https://drive.google.com/uc?export=view&id=1eEkrN0qzCF3qMOWX-NFEusYZRM1C5mEe)
 
-# Editing values
+## Editing values
 
 Pressing one of the items leads to an editing screen, where the values will be edited if they're correct, and if they're not, you can only continue editing or drop the changes made to that item.
 
